@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: student-micro
+  cloud:
+    config:
+      uri: http://locahost:8888 
